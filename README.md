@@ -1,11 +1,10 @@
-[README_ai_customer_support_sentiment_analyzer.md](https://github.com/user-attachments/files/33712198/README_ai_customer_support_sentiment_analyzer.md)
-# ai-customer-support-sentiment-analyzer
+# Ai-customer-support-sentiment-analyzer
 AI-powered customer support ticket analysis and sentiment classification using Python and machine learning.
 # AI Customer Support Ticket & Sentiment Analyzer
 
 A Python machine-learning prototype that analyzes customer support messages, predicts their category and sentiment, and assigns a rule-based priority to help support teams review incoming tickets more efficiently.
 
-[![Open in Google Colab](https://colab.research.google.com/drive/1Fm42H3lxT6jOdUg6PJLUc6GLWNuniksg?usp=sharing)
+https://colab.research.google.com/drive/1Fm42H3lxT6jOdUg6PJLUc6GLWNuniksg?usp=sharing
 
 ## Project Overview
 
