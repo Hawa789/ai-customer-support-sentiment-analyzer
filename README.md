@@ -2,7 +2,7 @@
 AI-powered customer support ticket analysis and sentiment classification using Python and machine learning.
 A Python machine-learning prototype that analyzes customer support messages, predicts their category and sentiment, and assigns a rule-based priority to help support teams review incoming tickets more efficiently.
 
-https://colab.research.google.com/drive/1Fm42H3lxT6jOdUg6PJLUc6GLWNuniksg?usp=sharing
+Link : https://colab.research.google.com/drive/1Fm42H3lxT6jOdUg6PJLUc6GLWNuniksg?usp=sharing
 
 ## Project Overview
 
@@ -135,6 +135,7 @@ The priority rule flags the unauthorized-payment wording for prompt review. The 
 5. Review the predicted category, sentiment, confidence scores, and priority.
 
 The interactive prototype runs inside the Colab session. It is **not yet a deployed web application** and is not connected to a live customer-support platform.
+Link : https://colab.research.google.com/drive/1Fm42H3lxT6jOdUg6PJLUc6GLWNuniksg?usp=sharing
 
 ## Technology Stack
 
