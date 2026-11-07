@@ -2,6 +2,8 @@
 AI-powered customer support ticket analysis and sentiment classification using Python and machine learning.
 A Python machine-learning prototype that analyzes customer support messages, predicts their category and sentiment, and assigns a rule-based priority to help support teams review incoming tickets more efficiently.
 
+## Project Resources
+
 ### Interactive Presentation
 - [View PowerPoint Presentation](https://view.genially.com/6aca9b656ddf6a28c83170cf)
 
